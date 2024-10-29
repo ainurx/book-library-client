@@ -1,0 +1,15 @@
+.background{
+    background-color: #F4F6FF;
+    height: 100dvh;
+    display: grid;
+}
+
+.formWrapper{
+    padding: 16px 24px;
+    background-color: #FFF;
+    border-radius: 8px;
+    align-self: center;
+    justify-self: center;
+    width: max-content;
+    height: max-content;
+}
